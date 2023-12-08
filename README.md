@@ -5,12 +5,16 @@
 
 ## Parâmetros Escolhidos
 1. Alimentação do Circuito:
+   - Vdd: 12 V;
 2. Polarização do Transistor
-   - R1:
-   - R2:
+   - R1: 10k Ohm;
+   - R2: 5,6k Ohm;
+   - Vg: 4,3077 V;
+   - Vd: 7 V;
 3. Ganho do Amplificador
-   - R3:
+   - R3: 2,2k Ohm;
    - R4:
+   - Av:
 4. Capacitores de Acoplamento
    - C1:
    - C2:
