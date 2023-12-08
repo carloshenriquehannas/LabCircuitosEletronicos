@@ -1,0 +1,17 @@
+* C:\Users\carlo\OneDrive\Documentos\GitHub\LabCircuitosEletronicos\ProjetoFinal.asc
+R§10k N001 N004 R
+R§5k N004 0 R
+R3 N001 N002 R
+R4 N005 0 R
+M1 N002 N004 N005 N005 NMOS
+RL Vo 0 R
+C1 N004 N003 C
+C2 Vo N002 C
+Vdd N001 0 15
+Vi N003 0 V
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\carlo\AppData\Local\LTspice\lib\cmp\standard.mos
+.tran 1
+.backanno
+.end
