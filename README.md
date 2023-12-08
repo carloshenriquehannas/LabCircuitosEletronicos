@@ -10,7 +10,7 @@
    - R1: 10k Ohm;
    - R2: 5,6k Ohm;
    - Vg: 4,3077 V;
-   - Vd: 7 V;
+   - Vd: 5 V;
 3. Ganho do Amplificador
    - R3: 2,2k Ohm;
    - R4:
