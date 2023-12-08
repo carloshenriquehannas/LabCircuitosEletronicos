@@ -17,6 +17,6 @@
    - R4:
    - Av: 12 V/V
 4. Capacitores de Acoplamento
-   - C1:
+   - C1: 10 microF
    - C2:
 5. Carga RL:
