@@ -1,5 +1,6 @@
 # LabCircuitosEletronicos
-<p>Trabalho final da disciplina de Laboratório de Circuitos Eletrônicos<p>
 
-<p>Link LaTeX: https://www.overleaf.com/project/6570db6ebd1174e81828b02c</p>
+## Trabalho Final
+Estuda-se o comportamento do MOSFET como amplificador em fonte comum, seguindo uma topologia determinada em aula. A pratica envolve o projeto do circuito de duas diferentes maneiras: simulação, via LTspice, e montagem em bancada de laboratório. Dessa forma, pode-se comparar o resultado de ganho esperado do circuito simulado com o
+experimento prático.
 
